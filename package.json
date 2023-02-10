@@ -1,0 +1,16 @@
+{
+  "name": "pp",
+  "version": "1.0.0",
+  "description": "Api rest para una app de comparadores de accesorios",
+  "main": "b.js",
+  "scripts": {
+    "test": "express, mongoose, nodemon, router-dom, cors",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "class.express.common"
+  ],
+  "author": "Francisco Javier Ortiz Gamboa",
+  "license": "ISC"
+}
